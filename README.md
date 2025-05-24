@@ -1,49 +1,51 @@
-🎮 Tic Tac Toe – Python + Pygame
+# 🎮 Tic Tac Toe – Python + Pygame
 
-A classic Tic Tac Toe (X and O) game built with Python and Pygame, featuring a clean UI, a restart function, and an AI opponent powered by the Minimax algorithm. Whether you're playing for fun or testing your skills against a strategic computer opponent, this project brings the timeless game to life!
-🔹 Features
+A classic **Tic Tac Toe (X and O)** game built with **Python** and **Pygame**, featuring a clean UI, a restart function, and an AI opponent powered by the **Minimax algorithm**. Whether you're playing for fun or testing your skills against a strategic computer opponent, this project brings the timeless game to life!
 
-    🎨 User-friendly interface with real-time drawing of Xs and Os
+---
 
-    🧠 AI opponent using the Minimax algorithm for unbeatable strategy
+## 🔹 Features
 
-    🎲 Optional easy mode for relaxed gameplay with random AI moves
+* 🎨 **User-friendly interface** with real-time drawing of Xs and Os
+* 🧠 **AI opponent** using the **Minimax algorithm** for unbeatable strategy
+* 🎲 Optional **easy mode** for relaxed gameplay with random AI moves
+* 🔄 **Restart** the game any time by pressing the `R` key
+* 🧱 Built from scratch using `pygame` and `numpy`
+* 📆 Lightweight and fast – no external game engine required
 
-    🔄 Restart the game any time by pressing the R key
+---
 
-    🧱 Built from scratch using pygame and numpy
+## 🛠️ Technologies Used
 
-    📦 Lightweight and fast – no external game engine required
+* **Python 3**
+* **Pygame**
+* **Numpy**
 
-🛠️ Technologies Used
+---
 
-    Python 3
+## 🎯 How to Play
 
-    Pygame
+1. Run the game using:
 
-    Numpy
+   ```bash
+   python Tic_Tac_Toc.py
+   ```
+2. Click on a square to place your move.
+3. Beat the AI... if you can 😉.
+4. Press `R` to restart the match anytime.
 
-🎯 How to Play
+---
 
-    Run the game using:
+## 🚀 Future Enhancements
 
-    python Tic_Tac_Toc.py
+* Difficulty level selector (easy, medium, hard)
+* Scoreboard tracking wins/draws
+* Sound effects and animations
 
-    Click on a square to place your move.
-
-    Beat the AI... if you can 😉.
-
-    Press R to restart the match anytime.
-
-🚀 Future Enhancements
-
-    Difficulty level selector (easy, medium, hard)
-
-    Scoreboard tracking wins/draws
-
-    Sound effects and animations
+---
 
 
-🙌 Acknowledgments
+## 👌 Acknowledgments
 
 Inspired by classic logic games and built as a fun way to practice AI algorithms and GUI development with Python.
+
