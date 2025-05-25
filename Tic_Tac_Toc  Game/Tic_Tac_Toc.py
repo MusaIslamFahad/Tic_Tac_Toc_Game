@@ -189,3 +189,4 @@ while True:
 
     draw_figures()
     pygame.display.update()
+
