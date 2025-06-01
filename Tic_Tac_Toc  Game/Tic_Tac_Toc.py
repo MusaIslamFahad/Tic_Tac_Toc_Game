@@ -334,6 +334,7 @@ while True:
 
         elif game_state == "game_over":
             pass # Buttons are handled by their draw_button calls
+        
 
     # --- Drawing Logic based on game_state ---
     if game_state == "landing":
@@ -348,3 +349,7 @@ while True:
             pygame.display.update()
     elif game_state == "game_over":
         draw_game_over_page(winner_message) # This function now handles clearing and updating
+    
+    
+    
+    
