@@ -350,6 +350,5 @@ while True:
     elif game_state == "game_over":
         draw_game_over_page(winner_message) # This function now handles clearing and updating
     
-    
-    
+
     
