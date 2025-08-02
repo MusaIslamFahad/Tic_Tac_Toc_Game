@@ -347,11 +347,14 @@ while True:
             draw_lines()
             draw_figures()
             pygame.display.update()
-     elif game_state == "game_over":
+    elif game_state == "game_over":
         draw_game_over_page(winner_message) # This function now handles clearing and updating
+    
+     
     
      
        
     
 
     
+
